@@ -1,0 +1,15 @@
+{
+  "name": "rime-sogou",
+  "version": "0.1.0",
+  "description": "搜狗細胞詞庫解析工具",
+  "main": "lib/parse.js",
+  "bin": {
+    "rime-sogou": "./lib/cli.js"
+  },
+  "repository": "https://github.com/metowolf/rime-sogou.git",
+  "author": "metowolf <i@i-meto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-opencc": "^2.0.1"
+  }
+}

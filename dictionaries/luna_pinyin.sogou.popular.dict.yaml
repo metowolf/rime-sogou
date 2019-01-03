@@ -7,11 +7,12 @@
 # example: 妙筆千山　（解謎類遊戲） 神探狗笨吉　（電影作品） 雲南蟲谷　（恐怖類電影） 格子間女人　（電視劇名） 幕後之王　（電視劇作品）
 #
 ---
-name: rime_sogou.popular
-version: "1546441056833"
+name: luna_pinyin.sogou.popular
+version: "1546487122831"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+
 吖吖雲播	a a yun bo	14821
 阿比蓋爾	a bi gai er	10057
 阿部察察	a bu cha cha	12543

@@ -7,11 +7,12 @@
 # example: 一詩千改始心安 文章千古事 愛好由來落筆難 瓜田不納履 汝果欲學詩 得失寸心知
 #
 ---
-name: rime_sogou.poetry
-version: "1546435398455"
+name: luna_pinyin.sogou.poetry
+version: "1546487121113"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+
 阿母爲汝求	a mu wei ru qiu	9195
 阿母謝媒人	a mu xie mei ren	9872
 阿那曲	a na qu	2039
@@ -16940,4 +16941,3 @@ use_preset_vocabulary: true
 昨者州前槌大鼓	zuo zhe zhou qian chui da gu	14518
 左執簧	zuo zhi huang	1573
 座中泣下誰最多	zuo zhong qi xia shui zui duo	16905
-座中醉客延醒客	zuo zhong zui ke yan xing ke	13571

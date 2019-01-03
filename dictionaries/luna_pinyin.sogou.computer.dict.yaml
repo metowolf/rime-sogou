@@ -7,11 +7,12 @@
 # example: 自動文件分類 擴散激發模型 安天盾防火牆 金狐盜號木馬 事件提供程序 異動處理單位
 #
 ---
-name: rime_sogou.computer
-version: "1546435387207"
+name: luna_pinyin.sogou.computer
+version: "1546487119636"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+
 阿姆達爾定律	a mu da er ding lv	3419
 阿帕網	a pa wang	4902
 埃爾布朗基	ai er bu lang ji	4362
@@ -10311,4 +10312,3 @@ use_preset_vocabulary: true
 作業狀態	zuo ye zhuang tai	6688
 左移	zuo yi	8844
 作用域	zuo yong yu	8848
-作用域解析	zuo yong yu jie xi	9966

@@ -1,0 +1,25 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.sogou.extended
+version: "2019.01.03"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.sogou.chengyu
+  - luna_pinyin.sogou.computer
+  - luna_pinyin.sogou.mobile
+  - luna_pinyin.sogou.poetry
+  - luna_pinyin.sogou.popular
+  - luna_pinyin.sogou.social
+...

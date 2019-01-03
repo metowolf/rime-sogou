@@ -1,0 +1,223 @@
+# Rime Sogou
+# encoding: utf-8
+#
+# name: 手機詞彙大全【官方推薦】
+# type: 日常
+# description: 官方推薦，詞庫來源於網友上傳！
+# example: 視頻通話 藍牙立體耳機 開放式手機操作系統 處理器主頻 分組數據 大唐通信
+#
+---
+name: luna_pinyin.sogou.mobile
+version: "1546487120697"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿爾卡特	a er ka te	182
+愛國者	ai guo zhe	132
+愛酷	ai ku	131
+愛立信	ai li xin	150
+艾美訊	ai mei xun	133
+奧丁	ao ding	130
+奧盛	ao sheng	144
+百盛達	bai sheng da	129
+百兆	bai zhao	128
+寶典	bao dian	127
+寶星	bao xing	126
+貝爾豐	bei er feng	125
+奔邁	ben mai	135
+本色小愛	ben shai xiao ai	124
+波導	bo dao	171
+步步高	bu bu gao	136
+彩鈴	cai ling	122
+彩信	cai xin	121
+財源道	cai yuan dao	123
+側滑	ce hua	120
+長虹	chang hong	184
+長江	chang jiang	119
+超薄	chao bao	118
+超長待機	chao chang dai ji	117
+充電	chong dian	116
+充電器	chong dian qi	115
+儲存卡	chu cun ka	114
+處理器主頻	chu li qi zhu pin	206
+純平	chun ping	113
+大唐通信	da tang tong xin	199
+大顯	da xian	168
+導航手機	dao hang shou ji	112
+德國電信	de guo dian xin	111
+迪比特	di bi te	157
+第三方軟件	di san fang ruan jian	205
+東信	dong xin	151
+東芝	dong zhi	160
+短信息	duan xin xi	110
+多普達	duo pu da	179
+多浦達	duo pu da	109
+翻蓋	fan gai	108
+翻新機	fan xin ji	107
+飛利浦	fei li pu	185
+飛洋	fei yang	106
+分組數據	fen zu shu ju	204
+鋒達通	feng da tong	105
+烽火	feng huo	104
+佛緣一號	fo yuan yi hao	103
+副攝像頭	fu she xiang tou	203
+港利通	gang li tong	102
+高斯貝爾	gao si bei er	101
+谷歌	gu ge	100
+國威	guo wei	99
+國信通	guo xin tong	98
+海爾	hai er	190
+海信	hai xin	156
+悍馬	han ma	97
+行貨	hang huo	27
+和信	he xin	96
+黑莓	hei mei	95
+恆基偉業	heng ji wei ye	93
+恆泰	heng tai	92
+衡天越	heng tian yue	94
+宏達	hong da	91
+弘谷電	hong gu dian	90
+紅外接收	hong wai jie shou	202
+滑蓋	hua gai	84
+華立	hua li	89
+華龍	hua long	88
+華錄	hua lu	87
+華碩	hua shuo	167
+華唐	hua tang	86
+華爲	hua wei	181
+華芯	hua xin	85
+技嘉	ji jia	146
+佳通	jia tong	83
+佳信	jia xin	82
+杰特	jie te	149
+金立	jin li	173
+金鵬	jin peng	81
+京瓷	jing ci	176
+開放式手機操作系統	kai fang shi shou ji cao zuo xi tong	80
+康佳	kang jia	192
+科達	ke da	79
+科健	ke jian	170
+酷派	ku pai	178
+來電防火牆	lai dian fang huo qiang	78
+藍特	lan te	77
+藍天	lan tian	76
+藍星月	lan xing yue	75
+藍牙	lan ya	74
+藍牙傳輸	lan ya chuan shu	73
+藍牙立體	lan ya li ti	209
+藍牙立體耳機	lan ya li ti er ji	201
+浪潮	lang chao	162
+朗星	lang xing	72
+樂華	le hua	152
+樂維	le wei	71
+聯發科	lian fa ke	134
+聯科	lian ke	70
+聯想	lian xiang	183
+凌科	ling ke	68
+凌銳	ling rui	137
+鈴聲	ling sheng	69
+龍旗	long qi	67
+美貝亞祥雲	mei bei ya xiang yun	66
+美騰	mei teng	65
+魅族	mei zu	1
+盟寶	meng bao	64
+明基	ming ji	188
+明基西門子	ming ji xi men zi	158
+名人	ming ren	62
+明星王	ming xing wang	63
+摩普達	mo pu da	61
+摩托羅拉	mo tuo luo la	180
+摩西	mo xi	60
+南方高科	nan fang gao ke	163
+紐曼	niu man	59
+諾基亞	nuo ji ya	186
+拍照	pai zhao	58
+拍照手機	pai zhao shou ji	208
+蘋果	ping guo	169
+普萊達	pu lai da	57
+普星	pu xing	56
+琦基	qi ji	4
+奇盛	qi sheng	54
+七喜	qi xi	55
+清華紫光	qing hua zi guang	140
+日產	ri chan	166
+榮基	rong ji	53
+薩基姆	sa ji mu	177
+塞班	sai ban	52
+賽格	sai ge	51
+三和	san he	50
+三菱	san ling	153
+三星	san xing	175
+三洋	san yang	159
+桑達	sang da	139
+閃光燈	shan guang deng	48
+山寨手機	shan zhai shou ji	49
+上網	shang wang	47
+上網手機	shang wang shou ji	200
+盛隆	sheng long	46
+視頻	shi pin	45
+視頻播放	shi pin bo fang	44
+視頻通話	shi pin tong hua	207
+首愛	shou ai	42
+手機牌照	shou ji pai zhao	197
+首相	shou xiang	41
+手寫輸入	shou xie shu ru	43
+首信	shou xin	147
+數源	shu yuan	145
+水貨	shui huo	40
+水立方韻動	shui li fang yun dong	39
+斯達康	si da kang	189
+思碼特	si ma te	38
+松下	song xia	195
+索尼	suo ni	143
+索尼愛立信	suo ni ai li xin	172
+泰迪熊	tai di xiong	37
+泰訊	tai xun	36
+天歌	tian ge	35
+天馬	tian ma	34
+天諾思	tian nuo si	148
+天時達	tian shi da	164
+天語	tian yu	33
+託普	tuo pu	154
+萬利達	wan li da	155
+唯開	wei kai	141
+衛星定位	wei xing ding wei	32
+沃達豐	wo da feng	31
+西門子	xi men zi	187
+廈華	xia hua	142
+夏普	xia pu	174
+夏新	xia xin	191
+線充	xian chong	30
+氙氣燈	xian qi deng	3
+新基	xin ji	29
+鑫泰	xin tai	2
+信息產業部	xin xi chan ye bu	28
+熊貓	xiong mao	165
+雅馬哈	ya ma ha	26
+易豐	yi feng	25
+億和源	yi he yuan	24
+伊諾	yi nuo	138
+伊勢亞	yi shi ya	161
+音樂手機	yin yue shou ji	23
+英華達	ying hua da	22
+英皇	ying huang	21
+盈泰	ying tai	20
+優冠	you guan	19
+宇達電通	yu da dian tong	193
+禹華	yu hua	18
+原裝	yuan zhuang	17
+運行內存	yun xing nei cun	196
+證書	zheng shu	16
+智能操作系統	zhi neng cao zuo xi tong	15
+中電	zhong dian	14
+中國電信	zhong guo dian xin	13
+中國聯通	zhong guo lian tong	12
+中國網通	zhong guo wang tong	11
+中國移動	zhong guo yi dong	10
+中恆	zhong heng	9
+中天	zhong tian	8
+中興	zhong xing	194
+主攝像頭	zhu she xiang tou	198
+自拍鏡	zi pai jing	7
+組裝機	zu zhuang ji	6
